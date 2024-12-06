@@ -43,12 +43,6 @@
         a:hover {
             text-decoration: underline;
         }
-        img {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin: 10px auto;
-        }
     </style>
 </head>
 <body>
@@ -66,8 +60,10 @@
                 (<a href="https://upload.wikimedia.org/wikipedia/commons/e/ed/Nam_Dinh_Province.jpg" target="_blank">Xem hình ảnh</a>)
             </p>
             <p>
-                <strong>Tài khoản Facebook:</strong> 
-                <a href="https://www.facebook.com/profile.php?id=100081142751184&sk=about" target="_blank">Trần Thị Kim Chi trên Facebook</a>
+                <strong>Facebook:</strong> 
+                <a href="https://www.facebook.com/profile.php?id=100081142751184&sk=about" target="_blank">
+                    Trần Thị Kim Chi trên Facebook
+                </a>
             </p>
         </div>
         <div class="section">
@@ -76,15 +72,6 @@
                 <li><strong>Đọc sách:</strong> Những quyển sách về tâm lý học</li>
                 <li><strong>Nghe nhạc:</strong> Những ca khúc của Thanh Hưng và Mr. Siro</li>
             </ul>
-            <div>
-                <h3>Một vài hình ảnh</h3>
-                <p><strong>Hình ảnh sách tâm lý học:</strong></p>
-                <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Psychology_books.jpg" alt="Sách tâm lý học">
-                <p><strong>Hình ảnh ca sĩ Thanh Hưng:</strong></p>
-                <img src="https://via.placeholder.com/400x300.png?text=Thanh+Hưng" alt="Thanh Hưng">
-                <p><strong>Hình ảnh ca sĩ Mr. Siro:</strong></p>
-                <img src="https://via.placeholder.com/400x300.png?text=Mr+Siro" alt="Mr. Siro">
-            </div>
         </div>
         <div class="section">
             <h2>Liên hệ</h2>
@@ -96,3 +83,4 @@
     </footer>
 </body>
 </html>
+
